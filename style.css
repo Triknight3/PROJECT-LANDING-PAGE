@@ -1,0 +1,165 @@
+.header,.footer{
+background-color: #1f2937;
+color: #f9faf8;
+width: auto;
+
+}
+
+body {
+    margin:0;
+    display: flex;
+    flex-direction: column;
+    font-size: 1vmin;
+    font-size: 1vmax; 
+}
+
+.htext, li {
+    font-size: 10px;
+    color: #e5e7eb
+}
+
+
+.mtext {
+    font-size: 48px;
+    font-weight: 800;
+    
+}
+
+.logo {
+    font-size: 24px;
+}
+
+button, .action {
+    background-color: #3882f6;
+    color: #f9faf8;
+}
+
+.action  {
+    margin: 30px 200px;
+    padding: 30px 50px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.information {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    font-size: 36px;
+    font-weight: 600;
+    color: #1f2937
+
+}
+
+.quote {
+    background-color: #e5e7eb;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 36px;
+    padding: 70px;
+    
+    
+    
+    
+}
+
+.thor {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.footer {
+    font-size: 10px;
+    text-align: center;
+}
+
+li, a {
+    text-decoration: none;
+    color: #e5e7eb;
+}
+
+.header {
+    padding: 10px 70px 30px;
+    display: flex;
+    flex-direction: column;
+    flex:0 1 auto;
+}
+
+.hbox1 {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    
+    
+}
+
+.hbox2 {
+    margin-top: 100px;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+
+
+.img1 {
+    width: 400px;
+    height: auto;
+    margin-left: 75px;
+    display:flex;
+    flex: 1;
+}
+
+ul {
+    list-style: none;
+    display:flex;
+    justify-content: space-between;
+    gap: 10px;
+
+}
+
+.button1 {
+    display:flex;
+    
+}
+
+
+.button2 {
+    margin-left: 70px;
+}
+
+
+
+.images {
+    padding: 20px 100px 50px;
+    display: flex;
+    justify-content: center;
+    
+    
+    
+}
+
+img, p {
+    width: 100px;
+    height: auto;
+    
+    
+    
+    
+}
+
+.jpeg {
+
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
